@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+##About the project
+1.Provide available routes to users.
+2.Proide available vehicles to users.
+3.provide fair to various routes to users.
+4.address daly issues.
+5.answer frequently asked questions.
+6.show chat line.
+7.provide map direction to our various station.
+8.give out news 
+
